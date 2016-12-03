@@ -7,7 +7,7 @@ All libraries used in the project can be found in the Processing folder.
 
 ### Install
 
--> Install Kinect SDK 1.8 
+- Install Kinect SDK 1.8 
 
 ### Test
 
